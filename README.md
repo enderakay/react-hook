@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+https://dev.to/simonholdorf/9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email
+
 ## Available Scripts
 
 In the project directory, you can run:
